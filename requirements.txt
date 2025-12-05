@@ -1,0 +1,11 @@
+# tkinter (needs to be installed separatedly by cli)
+tkcalendar
+Pillow
+fpdf2
+mysql-connector-python
+pandas
+numpy
+dotenv
+passlib[bcrypt]==1.7.4
+bcrypt==4.3.0
+matplotlib
